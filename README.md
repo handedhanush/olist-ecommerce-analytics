@@ -44,6 +44,7 @@ R2 Score: 0.XX
 ## Power BI Dashboard
 Interactive dashboard with 4 KPI cards, line chart, bar chart, map, donut chart,
 ML forecast chart, and dynamic slicers for Year, Quarter, and Category.
+![Dashboard](dashboard.png)
 
 ## Key Findings
 - 7.9% of orders were delivered late
